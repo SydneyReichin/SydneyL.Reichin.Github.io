@@ -2002,14 +2002,14 @@ input, select, textarea {
 			}
 
 		.wrapper.style1 {
-			background: #FFFFFF;
-			color: black;
+			background: cadetblue;
+			color: #FFFFFF;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #FFFFFF;
-				color: black;
+				background: cadetblue;
+				color: #FFFFFF;
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6, .wrapper.style1 strong, .wrapper.style1 b, .wrapper.style1 a {
@@ -2112,7 +2112,7 @@ input, select, textarea {
 	#nav {
 		position: absolute;
 		display: block;
-		top: 29em;
+		top: 30em;
 		left: 0;
 		width: 100%;
 		text-align: center;
