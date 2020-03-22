@@ -23,7 +23,7 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: 20px;}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -1648,6 +1648,8 @@ input, select, textarea {
 		min-width: 12em;
 		height: 4em;
 		line-height: 4em;
+		position: relative;
+		top: -11.2px;
 	}
 
 		input[type="button"]:hover,
@@ -1850,7 +1852,7 @@ input, select, textarea {
 		}
 
 		.feature-list h3 {
-			color: #e97770 !important;
+			color: #F49390 !important;
 			margin: -0.35em 0 0.75em 0;
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
