@@ -2028,12 +2028,12 @@ input, select, textarea {
 			}
 
 		.wrapper.style3 {
-			background: #fff;
+			background: #314D64;
 		}
 
 			.wrapper.style3 .title {
-				background: #fff;
-				color: #484d55;
+				background: #314D64;
+				color: #FFFFFF;
 			}
 
 			.wrapper.style3 .image {
@@ -2274,7 +2274,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #314D64;
+		background: #fff;
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
 		padding-bottom: 6em;
@@ -2341,8 +2341,8 @@ input, select, textarea {
 			}
 
 		#footer .title {
-			background: #314D64;
-			color: #eee;
+			background: #fff;
+			color: #484d55;
 		}
 
 		#footer header.style1 {
