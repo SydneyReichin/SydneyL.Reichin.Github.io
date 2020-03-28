@@ -2005,8 +2005,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background: #314D64;
-			color: #FFFFFF;
-			color: rgba(255, 255, 255, 0.75);
+			color:#FFFFFF;
 		}
 
 			.wrapper.style1 .title {
@@ -2029,6 +2028,7 @@ input, select, textarea {
 
 		.wrapper.style3 {
 			background: #314D64;
+			color:#FFFFFF;
 		}
 
 			.wrapper.style3 .title {
@@ -2993,4 +2993,8 @@ input, select, textarea {
 		font-size: 100%;
 		padding-left: 22px;
 		text-indent: -50px;
+			}
+
+.fa-twitter-square {
+			  color: #1da1f2;
 			}
