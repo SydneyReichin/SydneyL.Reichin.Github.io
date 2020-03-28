@@ -2004,13 +2004,13 @@ input, select, textarea {
 			}
 
 		.wrapper.style1 {
-			background: cadetblue;
+			background: #314D64;
 			color: #FFFFFF;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: cadetblue;
+				background: #314D64;
 				color: #FFFFFF;
 			}
 
@@ -2274,7 +2274,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #282b34 url("images/overlay.png");
+		background: #314D64;
 		color: #eee;
 		color: rgba(255, 255, 255, 0.5);
 		padding-bottom: 6em;
@@ -2341,7 +2341,7 @@ input, select, textarea {
 			}
 
 		#footer .title {
-			background: #282b34 url("images/overlay.png");
+			background: ##314D64;
 			color: #eee;
 		}
 
@@ -2448,7 +2448,7 @@ input, select, textarea {
 				margin-top: -0.5em !important;
 			}
 
-				#logo h1 {
+				#logo h1
 					font-size: 1.75em;
 				}
 
