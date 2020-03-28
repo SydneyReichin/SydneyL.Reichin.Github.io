@@ -2341,7 +2341,7 @@ input, select, textarea {
 			}
 
 		#footer .title {
-			background: ##314D64;
+			background: #314D64;
 			color: #eee;
 		}
 
@@ -2368,7 +2368,7 @@ input, select, textarea {
 			}
 
 			#footer .feature-list h3:before {
-				background: #3d4249 url("images/overlay.png");
+				background: #3d4249;
 			}
 
 /* Copyright */
