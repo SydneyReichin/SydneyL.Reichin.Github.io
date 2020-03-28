@@ -2985,3 +2985,12 @@ input, select, textarea {
 						}
 
 	}
+
+	/* reference */
+
+	.hangingindent {
+		text-align: left;
+		font-size: 100%;
+		padding-left: 22px;
+		text-indent: -50px;
+			}
