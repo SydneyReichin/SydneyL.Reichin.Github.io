@@ -1886,6 +1886,7 @@ input, select, textarea {
 	.icon {
 		text-decoration: none;
 		text-decoration: none;
+		color:white;
 	}
 
 		.icon:before {
@@ -2993,8 +2994,4 @@ input, select, textarea {
 		font-size: 100%;
 		padding-left: 22px;
 		text-indent: -50px;
-			}
-
-.fa-twitter-square {
-			  color: #1da1f2;
 			}
