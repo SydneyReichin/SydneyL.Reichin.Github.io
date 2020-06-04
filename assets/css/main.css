@@ -2073,7 +2073,8 @@ input, select, textarea {
 				}
 
 				.wrapper.spotlight p {
-					font-size: 1.5em;
+					font-size: 1.3em;
+					text-align:justify;
 					letter-spacing: 0.075em;
 					line-height: 1.25em;
 					color:#b1b4b9;
@@ -2081,7 +2082,7 @@ input, select, textarea {
 
 				.wrapper.spotlight h1 {
 					font-weight: 700;
-					font-size: 2em;
+					font-size: 1.60em;
 					letter-spacing: 0.075em;
 					line-height: 1.5em;
 					color:484d55;
