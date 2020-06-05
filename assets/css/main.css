@@ -1906,6 +1906,7 @@ ul.icons {
 	transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 	border-bottom: none;
 	position: relative;
+	background: #55ACEE
 }
 
 	.icon:before {
@@ -2690,7 +2691,7 @@ ul.icons {
 			border-radius: 0.35em;
 			box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.05);
 			color: #aaa;
-			color: rgba(255, 255, 255, 0.25);
+			color: black;
 			padding: 0.75em 2em;
 			font-size: 0.9em;
 		}
@@ -2701,6 +2702,7 @@ ul.icons {
 				padding-left: 1em;
 				border-left: solid 1px #333;
 				border-left-color: rgba(255, 255, 255, 0.05);
+				color:black;
 			}
 
 				#copyright ul li:first-child {
