@@ -1886,8 +1886,7 @@ input, select, textarea {
 ul.icons {
 	cursor: default;
 	list-style: none;
-	padding-left: 2em;
-	padding-top: 5em;
+	text-align:center;
 }
 
 	ul.icons li {
@@ -2037,7 +2036,7 @@ ul.icons {
 }
 
 	.icon.alt:hover {
-		background-color: rgba(255, 255, 255, 0.075);
+		background-color: grey;
 	}
 
 	.icon.alt:active {
@@ -2582,8 +2581,7 @@ ul.icons {
 
 	#footer {
 		background: #fff;
-		color: #eee;
-		color: rgba(255, 255, 255, 0.5);
+		color: black;
 		padding-bottom: 6em;
 	}
 
@@ -2677,6 +2675,15 @@ ul.icons {
 			#footer .feature-list h3:before {
 				background: #3d4249;
 			}
+
+		#footer .icons{
+			color:#aaaaaa;
+		}
+		#footer .copyright {
+			color: #aaaaaa;
+			font-size: 0.5em;
+			fot-weight: 400;
+		}
 
 /* Copyright */
 
