@@ -1886,7 +1886,8 @@ input, select, textarea {
 ul.icons {
 	cursor: default;
 	list-style: none;
-	padding-left: 0;
+	padding-left: 2em;
+	padding-top: 5em;
 }
 
 	ul.icons li {
@@ -2681,8 +2682,8 @@ ul.icons {
 
 	#copyright {
 		text-align: center;
-		padding-top: 6em;
-		margin-top: 6em;
+		padding-top: 1em;
+		margin-top: 1em;
 		border-top: solid 1px rgba(255, 255, 255, 0.05);
 	}
 
@@ -2774,8 +2775,8 @@ ul.icons {
 		/* Copyright */
 
 				#copyright {
-						padding-top: 4em;
-						margin-top: 4em;
+						padding-top: 1em;
+						margin-top: 1em;
 					}
 
 			}
