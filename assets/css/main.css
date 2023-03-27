@@ -80,6 +80,7 @@ input, select, textarea {
 
 	html {
 		box-sizing: border-box;
+		background: #3b7084;
 	}
 
 	*, *:before, *:after {
